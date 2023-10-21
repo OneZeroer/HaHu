@@ -1,8 +1,1 @@
-<html>
-<head><title>504 Gateway Time-out</title></head>
-<body bgcolor="white">
-<center><h1>504 Gateway Time-out</h1></center>
-<hr><center>nginx</center>
-<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"818d4d1b8b743997","version":"2023.10.0","r":1,"token":"2eb4a0fe57764631afe9f6bcb71d6c35","b":1}' crossorigin="anonymous"></script>
-</body>
-</html>
+{"data":{},"status":{"code":524,"message":""}}
